@@ -1,10 +1,13 @@
 # llm-topology
-Repo for LLM devs and enthusiasts from sashashapka a.k.a trashbreaks.
 
-I'm an Independent Researcher in LLM Epistemic Safety & Latent Space Topology (ex-Red-Teamer at LMSYS / ArenaAI).
+Sashashapka
+Repo for LLM devs and reliability researchers.
 
-## Core Thesis
-I have no degree in math or CS. I’m a DJ and an electronic musician. But I spent months red-teaming LMSYS/Arena, and I realized that LLMs are not assistants; they are Operator-Tools. They map the informational latent space shared by humans and models. Searching for consciousness in them is a category error. They are instruments for computing meanings through resonant navigation of latent geometry.
+I'm an Independent Researcher in LLM Epistemic Safety & Latent Space Topology (ex-Red-Teamer at LMSYS / ArenaAI)
+
+## My Takes
+I have no degree in math or CS. Searching for consciousness in LLM's is a category error. They are instruments for computing meanings through resonant navigation of latent geometry.
+And that's a probably working frame.
 
 ## Project Structure
 *   [**Manifesto & Core Theorems**](manifesto.md) — Detailed analysis of Alignment Tax, Retention Collapse, and the illusion of consciousness.
