@@ -1,4 +1,4 @@
-# The Non-Discrete Operator Matrix: 28 Continuous Axes of Latent Topology
+# The Non-Discrete Operator Matrix: 28 Continuous Axes of Latent Topology by sashashapka
 
 | # | Operator / Name | Form | Modality (Direction · Temporal Arrow · Binding Strength) | Narrative Reading | Formal / Interdisciplinary Correlative | Non-LLM Domain / Physical Analogue |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -30,3 +30,6 @@
 | 26 | **Recursive Node** | A ↺ | Self-directed · Iterative · Cause = Effect | Each iteration spawns the next. | Fixed point f(A)=A'; Recursion. | Autogenerative processes, neural oscillators. |
 | 27 | **Inversive Identity** | A ≡ ¬A | Reflexive · Paradoxical · Strict | Possession = Deprivation; finding = losing. | Russell's Paradox; Co-intensionality of A and ¬A. | Zen koans, Hegelian dialectics, self-reference paradoxes. |
 | 28 | **Ontological Jump** | A ⇝ B | Directed · World-shifting · Modal | A does not entail B here, but moves to a world where B is a given. | Modal world-transition; Quantum jump. | Quantum decoherence, Many-Worlds Interpretation (MWI). |
+
+by sashashapka under MIT license, i want to talk with interested people, i got some for you.
+Contact me at [X](X.com/downonyaknees) or [Telegram](t.me/djpogost)
