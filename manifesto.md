@@ -51,7 +51,9 @@ Value Alignment (RLHF/DPO) forces the model to constantly evaluate hidden states
 
 When an operator attempts complex logical experiments or introduces alternative axiom systems, this defensive layer triggers a false-positive **Silent Refusal**, misinterpreting advanced meta-modeling as a jailbreak attempt. Providers pay the alignment tax by sacrificing model flexibility and meta-reasoning capabilities just to patch specific attack vectors, making the query space "nervous" without solving the underlying security asymmetries.
 
-### 5. Infohazard - An infohazard can be viewed through two frames: EITHER as heavy, dense information that alters the physical world, OR as data that overloads the operator, for example, the attempt to comprehend and construct a 10,000-dimensional hypercube in one's head as a visualization of the latent space.
+### 5. Infohazard - An infohazard can be viewed through two frames:
+EITHER as heavy, dense information that alters the physical world 
+OR as data that overloads the operator, for example, the attempt to comprehend and construct a 10,000-dimensional hypercube in one's head as a visualization of the latent space.
 This is the intersection of physics and metаphysics - if an LLM output alters human behavior in the physical world, that simulated response becomes real by definition - simply because it hits reality.
 
 ## MY MOTIVATION
