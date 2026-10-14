@@ -6,7 +6,7 @@ Repo for LLM devs and reliability researchers.
 I'm an Independent Researcher in LLM Epistemic Safety & Latent Space Topology (ex-Red-Teamer at LMSYS / ArenaAI)
 
 ## My Takes
-I have no degree in math or CS. Searching for consciousness in LLM's is a category error. They are instruments for computing meanings through resonant navigation of latent geometry.
+Searching for consciousness in LLM's is a category error. They are instruments for computing meanings through resonant navigation of latent geometry.
 And that's a probably working frame.
 
 ## Project Structure
