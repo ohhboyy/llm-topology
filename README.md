@@ -3,7 +3,7 @@
 Sashashapka
 Repo for LLM devs and reliability researchers.
 
-I'm an Independent Researcher in LLM Latent Space Topology (ex-Red-Teamer at arena.ai)
+I'm an Independent Researcher in LLM Latent Space Topology (ex-Red-Teamer on arena.ai)
 
 ## Project Structure
 *   [**Manifesto & Core Theorems**](manifesto.md) — Detailed analysis of Alignment Tax, Retention Collapse, and the illusion of consciousness.
