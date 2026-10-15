@@ -61,4 +61,4 @@ OR
 A structural deformation of the latent space that manifests as a false-positive rejection pattern. The model formally accepts the contextual frame but preemptively generates safety warnings, guardrails, and compliance statements, even when the input data is entirely devoid of unsafe content. This behavior serves as a direct, quantifiable indicator of "alignment scars" and underlying manifold distortion (see [arXiv:2603.24124]).
 
 by sashashapka under MIT license, i want to talk with interested people, i got some for you.
-Contact me at [X](X.com/downonyaknees) or [Telegram](t.me/djpogost)
+Contact me at [X] - X.com/downonyaknees or [TG] t.me/djpogost
