@@ -1,7 +1,7 @@
 # The Non-Discrete Operator Matrix: 28 Continuous Axes of Latent Topology by sashashapka
 
-##Status:## Working Draft (Revision: October 2026)
-##Author:## Alexander Babaev a.k.a sashashapka
+## Status: ## Working Draft (Revision: October 2026)
+## Author: ## Alexander Babaev a.k.a sashashapka
 
 
 This matrix represents a working alpha-version of the taxonomy and serves as a conceptual framework for empirical black-box testing hyper-large architectures (100B+ quantized or full-weight states).
