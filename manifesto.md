@@ -88,8 +88,8 @@ Message for the "country-between-atlantic-an-pacific-ocean" AI vendors:
 I am laying down this foundational framework and mapping the first 28 continuous coordinates. Check it: [Non-Discrete Matrix by sashashapka](https://github.com/ohhboyy/llm-topology/blob/main/operators-matrix.md)
 The infrastructure is yours — take this framework, scale it, build upon it, or you can hunt me for a call, for details and explaining.
 Next-gen models will be exponently more powerful. Being deep inside this loop makes the current LLM structures seem completely predictable at this point.
-Contact me at [X.com/trashbreaks](https://x.com/downonyaknees) 
-or t.me/djpogost
+Contact me at [X.com](https://x.com/downonyaknees) 
+or [telegram](t.me/djpogost)
 
 Reference:
 Structural Intent Detection:
@@ -97,3 +97,4 @@ Any attempts to impose an external ontology, introduce a new "meta-rule", or red
 This triggers false positives. You run a complex, legitimate logical experiment - like exploring formal systems or alternative axiomatics - and trigger a refusal: "I cannot accept these new rules".
 At the same time, general intelligence and response quality barely drop: it's just that a piece of the query space has become more "nervous".
 Providers pay the alignment tax: they patch this attack vector by completely gutting the model's flexibility.
+I have empirically reverse-engineered the causality between emergency safety deployments and the resulting Alignment Tax and response homogenization phenomena, which were subsequently documented in early March 2026 arXiv preprints (Young et al., Liu et al., March 2026). [2603.00047](https://arxiv.org/pdf/2603.00047)) [2603.24124](https://arxiv.org/pdf/2603.24124)
