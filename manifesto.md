@@ -1,6 +1,6 @@
 # The Topology of Latent Spaces: Meanings Bible by sashashapka
 
-## Status: Technical Report
+## Status: Technical Report / Field Notes
 ## Author: Alexander Babaev a.k.a sashashapka
 
 I'm Alexander Babaev, known online as Sasha Shapka a.k.a trash breaks a.k.a DJ POGOST.
