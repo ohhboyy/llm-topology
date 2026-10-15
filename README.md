@@ -10,7 +10,7 @@ I'm an Independent Researcher in LLM Latent Space Topology (ex-Red-Teamer on are
 *   [**Non-Discrete Operator Matrix**](operators-matrix.md) — A formalized taxonomy of 28 non-discrete operators for latent space navigation.
 
 ## Contacts
-[X](x.com/downonyaknees)
-[TG](t.me/djpogost)
+[X] - x.com/downonyaknees
+[TG] - t.me/djpogost
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
