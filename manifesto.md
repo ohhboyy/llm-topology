@@ -72,8 +72,8 @@ I am actively seeking a research team to scale this scientific framework.
 (you're welcome to discuss them)
 My takes are:
 
-1. Holographic Superposition & The Impossibility of Unlearning
-Information in transformers exists in a state of holographic superposition. An input triggers an immediate trajectory collapse toward a specific region. You cannot surgically excise a specific dangerous concept (like chemical weapons or exploit code) without breaking the system. 
+1. The Impossibility of Unlearning
+Information in transformers exists in a state of distributed representation. An input triggers an immediate trajectory collapse toward a specific region. You cannot surgically excise a specific dangerous concept (like chemical weapons or exploit code) without breaking the system. 
 
 Trying to cut out one coordinate triggers **context retention collapse** across all connected cognitive clusters due to polysemantic threads. Want to censor VX gas? You will inevitably lobotomize general chemistry. But who needs such a model?
 
